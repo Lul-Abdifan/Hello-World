@@ -44,7 +44,7 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: https://github.com/Lul-Abdifan?tab=repositories
 
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn:https://www.linkedin.com/in/abdi-bekele-02927a223/
 
 
 ## 🤝 Contributing
